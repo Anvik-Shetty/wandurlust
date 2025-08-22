@@ -94,7 +94,7 @@ a{
 .destination-grid{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 35px;
+    gap: 30px;
     margin-top: 50px;
     text-align: center;
 }
